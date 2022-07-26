@@ -1,0 +1,7 @@
+/target
+Cargo.lock
+manejo_inputs/target
+manejo_inputs/Cargo.lock
+operaciones/target
+operaciones/Cargo.lock
+.DS_Store
